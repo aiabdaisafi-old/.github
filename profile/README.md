@@ -4,7 +4,7 @@
 </p>
 
 # *The Purpose of this Organization*
-This Organization used just to have all the Repositories that contain code I may want to refer to later, but I do not really want to be associated with. Maybe it’s a high school or university project with no stars and which no longer reflect the way I code. I don’t have time to update them, I still need to refer to them sometime, but I don’t want them to say “hey, this is how Andrei is co…
+This Organization used just to have all the Repositories that contain code I may want to refer to later, but I do not really want to be associated with. Maybe it’s a high school or university project with no stars and which no longer reflect the way I code. I don’t have time to update them, I still need to refer to them sometime, but I don’t want them to say “hey, this is how Ali is co…
 <!--
 # Announcements 
 ![download](https://user-images.githubusercontent.com/51924990/190669085-d4cacde3-556e-400e-b72f-27b2b0093c7d.png)
