@@ -3,6 +3,7 @@
   <img src="https://user-images.githubusercontent.com/51924990/190669085-d4cacde3-556e-400e-b72f-27b2b0093c7d.png" />
 </p>
 
+´´´´Deprecated´´´´
 <span style="color: green"> # The Organization Purpose </span>
 $${\color{red} \space The \space Organization \space Purpose}$$
 
